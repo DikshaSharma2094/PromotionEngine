@@ -1,0 +1,9 @@
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diksh\Desktop\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CopyComplete

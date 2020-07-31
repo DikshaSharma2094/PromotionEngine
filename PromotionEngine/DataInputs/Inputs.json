@@ -1,0 +1,76 @@
+{
+  "Promotions": [
+    {
+      "ProductId": "A",
+      "Count": 3,
+      "DiscountPrice": 130
+    },
+    {
+      "ProductId": "B",
+      "Count": 2,
+      "DiscountPrice": 45
+    },
+    {
+      "ProductId": "C & D",
+      "Count": 1,
+      "DiscountPrice": 30
+    }
+  ],
+  "OrdersPlaced": [
+    {
+      "OrderId": 1,
+      "Products": [
+        {
+          "ProductId": "A",
+          "Count": 1
+        },
+        {
+          "ProductId": "B",
+          "Count": 1
+        },
+        {
+          "ProductId": "C",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "OrderId": 2,
+      "Products": [
+        {
+          "ProductId": "A",
+          "Count": 5
+        },
+        {
+          "ProductId": "B",
+          "Count": 5
+        },
+        {
+          "ProductId": "C",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "OrderId": 3,
+      "Products": [
+        {
+          "ProductId": "A",
+          "Count": 3
+        },
+        {
+          "ProductId": "B",
+          "Count": 5
+        },
+        {
+          "ProductId": "C",
+          "Count": 1
+        },
+        {
+          "ProductId": "D",
+          "Count": 1
+        }
+      ]
+    }
+  ]
+}
